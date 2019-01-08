@@ -1,0 +1,14 @@
+
+# 忽略ptt檔
+
+*.pptx
+*.ppt
+*.pdf
+
+*.tmp
+*.gch
+*.jpg
+
+*.exe
+*.o
+*.a
